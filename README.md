@@ -56,7 +56,7 @@ ip address 200.30.40.1 255.255.255.240
 no shutdown
 exit
 ```
-![alt text](image-10.png)
+![alt text](image1.png)
 
 **Guardar la configuración:**
 
@@ -86,8 +86,8 @@ switchport mode access
 switchport access vlan 10
 exit
 ```
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](image3.png)
+![alt text](image2.png)
 **Nota:** Si la VLAN 10 no existía, se creó automáticamente.
 
 **Guardar la configuración:**
